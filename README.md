@@ -7,4 +7,4 @@ Access google colab notebook for the GAN results using 3000 raw dress images via
 ![Generated image using 3000 raw webscrapped images](https://github.com/mingxiuuuuu/rawDresses3000/blob/master/generated%20images%20500%20epochs.png)
 
 ## Sample of raw images used for training
-![Generated image using 3000 raw webscrapped images](https://github.com/mingxiuuuuu/rawDresses3000/blob/master/Training%20raw3000.png)
+![Generated image using 3000 raw webscrapped images](https://github.com/mingxiuuuuu/rawDresses3000/blob/master/training%20images.png)
